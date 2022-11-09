@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsGnomi
 - 👀 I’m interested in coding, book, art, idk games? VALORANT :o
-- 🌱 I’m currently learning html/css/javascript idk :)
+- 🌱 I’m currently learning html/css/javascript/java idk :)
 - 💞️ I’m looking to collaborate on eijfgirfdjn ????
 - 📫 How to reach me uhhh idk what?
 
